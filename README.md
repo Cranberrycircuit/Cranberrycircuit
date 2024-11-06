@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Yazan Al-harthi 🚀
+# 👋 Hey there! I'm Cranberrycircuit 🚀
 
 you'll find a mix of med-school madness, code experiments, and probably a few things that shouldn’t have worked but did anyway.
 
